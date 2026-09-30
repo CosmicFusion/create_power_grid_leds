@@ -3,8 +3,8 @@
   "ingredient": {
     "item": "powergrid:wire"
   },
-  "transitionalItem": {
-    "item": "powergrid:wire"
+  "transitional_item": {
+    "id": "powergrid:wire"
   },
   "sequence": [
     {
@@ -19,7 +19,7 @@
       ],
       "results": [
         {
-          "item": "powergrid:wire"
+          "id": "powergrid:wire"
         }
       ]
     }
@@ -27,7 +27,7 @@
   "loops": 3,
   "results": [
     {
-      "item": "create_power_grid_leds:led_filament",
+      "id": "create_power_grid_leds:led_filament",
       "count": 1
     }
   ]
